@@ -1,7 +1,7 @@
 {
   "name": "binanceservice",
   "version": "0.0.1",
-  "description": "The Trading Bot API class provides methods for fetching trading information, executing trades, and managing both test and real trading environments. It’s designed to facilitate both strategy development and live trading.",
+  "description": "The BinanceService class provides methods for fetching trading information, executing trades, and managing both test and real trading environments. It’s designed to facilitate both strategy development and live trading.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

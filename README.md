@@ -6,7 +6,7 @@ Binance service is a class with methods for fetching trading information, execut
 
 ## Methods
 
-Here is a list of methods available in the Trading Bot API class along with brief descriptions:
+Here is a list of methods available in the BinanceService class along with brief descriptions:
 
 | Method                        | Description                                                                                                  |
 |-------------------------------  |--------------------------------------------------------------------------------------------------------------|
